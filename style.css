@@ -1,0 +1,83 @@
+.card{
+height: 400px;
+width: 300px;
+border: 1px solid;
+border-radius: 10px;
+
+}
+.section1{
+height: 45%;
+background-image: url(free-photo-of-green-hilltops-under-clouds.jpeg);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+
+border-top-right-radius: 10px;
+border-top-left-radius: 10px;
+}
+.section2{
+margin: 15px;
+padding-left: 10px;
+
+}
+.tag{
+background-color: green;
+color: white;
+padding: 2px 15px ;
+border-radius: 25px;
+
+}
+.title{
+
+
+
+
+
+
+}
+.para{
+font-size: 10px;
+
+
+}
+.profile{
+height: 50px;
+width: 50;
+border-radius: 100%;
+
+
+}
+.name{
+
+
+
+}
+.time{
+color:lightgray;
+font-size: 12px;
+
+}
+.card2{
+height: 400px;
+width: 300px;
+border: 1px solid;
+border-radius: 10px;
+background-color: gray;
+
+}
+.sec1{
+    height: 35%;
+    background-color: blue;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    }
+   .names{
+color: beige;
+   }
+   .price{
+color: aquamarine;
+
+   }
+   .parag{
+color: white;
+
+   }
